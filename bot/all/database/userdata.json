@@ -1,0 +1,45 @@
+{
+  "120363420063443735@g.us": {
+    "saldo": {
+      "RAPA": 26,
+      "NOBISZ": 6,
+      "DULZ": 1157,
+      "DIKA": 0
+    },
+    "pernahLF": {},
+    "backupSaldo": {
+      "RAPA": 26,
+      "NOBISZ": 6,
+      "DULZ": 1068,
+      "DIKA": 0
+    }
+  },
+  "6282189170257@s.whatsapp.net": {
+    "saldo": {
+      "RAPA": -10,
+      "NOBISZ": 8
+    },
+    "pernahLF": {
+      "RAPA": true,
+      "NOBISZ": true
+    },
+    "backupSaldo": {
+      "RAPA": -10,
+      "NOBISZ": 8
+    }
+  },
+  "6282241182487@s.whatsapp.net": {
+    "saldo": {
+      "RAPA": 0,
+      "NOBISZ": 32
+    },
+    "pernahLF": {
+      "RAPA": true,
+      "NOBISZ": true
+    },
+    "backupSaldo": {
+      "RAPA": 0,
+      "NOBISZ": 24
+    }
+  }
+}
